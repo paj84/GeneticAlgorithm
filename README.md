@@ -1,3 +1,3 @@
 # GeneticAlgorithm
 
-This is a project where I play oround with machine learning in c#
+This is a project where I play around with machine learning in c#
